@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'employee',
     'index',
     'Slider',
+    'Portfolio',
+    'Clients',
+    'blog',
 ]
 
 MIDDLEWARE = [

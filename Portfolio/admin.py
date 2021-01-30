@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import  portfolioCategory,portfolio
+admin.site.register(portfolioCategory)
+admin.site.register(portfolio)
+
